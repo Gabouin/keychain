@@ -1,5 +1,10 @@
 # KEYCHAIN
 I am making a PCB keychain with my own draw of Yolk, my favorite [_Leap Day_](https://nitrome.fandom.com/wiki/Leap_Day) character.  
+<br>  
+
+<img width="812" height="451" alt="image" src="https://github.com/user-attachments/assets/4fa68903-5551-4fbc-9812-91ed37574cb9" />
+<br>
+<br>  
 
 The first Idea :  
 
@@ -27,10 +32,10 @@ I remade the design in Figma with different layers : The outline, the yellow par
 
 I wanted to make a gold layer and emboss layer but I didn't make the good masks in Figma for that and I tried to, as you can see in the lapse, but I didn't arrive to after an hour so I gave up...  
 
-So I just put the draw that I made on the top silkscreen and put a keychain hole for it to become an actual kaychain !  
+So I just put the draw that I made on the top silkscreen and put a keychain hole for it to become an actual keychain !  
 
+<img width="394" height="570" alt="20260418-1933-15 6505108" src="https://github.com/user-attachments/assets/2a415ab4-b02b-47cb-bb03-42b492895da4" />
 
-<img width="448" height="518" alt="Capture d&#39;écran 2026-04-18 214338" src="https://github.com/user-attachments/assets/4910a8b2-c3dc-4907-bad1-06a7e319e48f" />
 
 ## DEMO LINK
 
