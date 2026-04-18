@@ -1,5 +1,5 @@
 # KEYCHAIN
-I am making a PCB keychain with my own draw of Yolk, a [_Leap Day_](https://nitrome.fandom.com/wiki/Leap_Day) character.  
+I am making a PCB keychain with my own draw of Yolk, my favorite [_Leap Day_](https://nitrome.fandom.com/wiki/Leap_Day) character.  
 
 The first Idea :  
 
@@ -32,3 +32,6 @@ So I just put the draw that I made on the top silkscreen and put a keychain hole
 
 <img width="448" height="518" alt="Capture d&#39;écran 2026-04-18 214338" src="https://github.com/user-attachments/assets/4910a8b2-c3dc-4907-bad1-06a7e319e48f" />
 
+## DEMO LINK
+
+ https://oshwlab.com/worldoflos2.0/project_efnzqoxy
