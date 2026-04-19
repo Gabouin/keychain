@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # KEYCHAIN
 I am making a PCB keychain with my own draw of Yolk, my favorite [_Leap Day_](https://nitrome.fandom.com/wiki/Leap_Day) character.  
 <br>  
