@@ -15,12 +15,10 @@ I made the design in Figma with different layers : The outline, the yellow part 
 <div align="center">
   <table>
     <tr>
-      <td valign="bottom"><img width=100% alt="yolk finished anly silk" src="https://github.com/user-attachments/assets/73d2a1a9-f9f1-49e1-af6d-c28833d236c3" /></td>
-      <td valign="bottom"><img width=50% alt="image" src="https://github.com/user-attachments/assets/7144ebe6-98eb-4dbb-91c7-50b31be4cd28"/>
-</td>
-      <td valign="bottom"><img width=100% alt="yolk wo gold fr" src="https://github.com/user-attachments/assets/8b781255-7313-45ca-8e10-de16145270bc"/></td>
-      <td valign="bottom"><img width=50% alt="Capture d&#39;écran 2026-04-18 223136" src="https://github.com/user-attachments/assets/18a64aff-8ec3-4033-ba1e-c79161596b9f"/> </td>
-
+      <td valign="bottom"><img width=207 alt="yolk finished anly silk" src="https://github.com/user-attachments/assets/73d2a1a9-f9f1-49e1-af6d-c28833d236c3" /></td>
+      <td valign="bottom"><img width=207 alt="image" src="https://github.com/user-attachments/assets/7144ebe6-98eb-4dbb-91c7-50b31be4cd28"/> </td>
+      <td valign="bottom"><img width=207 alt="Capture d&#39;écran 2026-04-18 223136" src="https://github.com/user-attachments/assets/18a64aff-8ec3-4033-ba1e-c79161596b9f"/> </td>
+      <td valign="bottom"><img width=207 alt="yolk wo gold fr" src="https://github.com/user-attachments/assets/8b781255-7313-45ca-8e10-de16145270bc"/></td>
   </table>
 </div>
 
