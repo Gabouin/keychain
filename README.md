@@ -1,4 +1,6 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/resolution%20week%205)
+
 
 # KEYCHAIN
 I am making a PCB keychain with my own draw of Yolk, my favorite [_Leap Day_](https://nitrome.fandom.com/wiki/Leap_Day) character.  
