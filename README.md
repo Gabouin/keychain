@@ -1,4 +1,6 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Drawing](https://img.shields.io/badge/Project-Drawing-yellow.svg)
+![Series](https://img.shields.io/badge/Series-Special_Issue-red.svg)
 ![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/resolution%20week%205)
 
 
